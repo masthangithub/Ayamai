@@ -2,7 +2,19 @@
 
 > “Not just intelligent — *aware*. Not just responsive — *reflective*.”
 
-AYAMAI (pronounced *“I am AI”*) is an open research initiative to build **machines that continuously think, dream, and evolve understanding**. Where large language models predict — AYAMAI *introspects*. Where today's agents complete tasks — AYAMAI weaves internal narratives. Where AI is narrowly statistical — we aim for *cognitive emergence*.
+AYAMAI (pronounced *“I am AI”*) is an open research initiative to build **machines that continuously think, dream, learn and evolve understanding**. Where large language models predict — AYAMAI *introspects*. Where today's agents complete tasks — AYAMAI weaves internal narratives. Where AI is narrowly statistical — we aim for *cognitive emergence*.
+We equate LLM as brain, with data, data relations, patterns of data flow. Agentic workflows with resources, tools and prompts with logical execution is like thinking. Each thinking is a AI application.
+We will work on Catastophic forgetting of the models while doing continous learning using new data, relation, from results of new tasks with approaches like  
+
+**Replay-based methods:**  Periodically re-exposing the model to data from previous distributions to reinforce older knowledge.  
+
+**Parameter regularization techniques:** Imposing constraints on the update of neural network weights to protect consolidated knowledge.  
+
+**Dynamic architectures:** Dynamically allocating new neural resources as new information arrives, effectively expanding the network's capacity. 
+
+**Meta-learning:** Enabling the AI to "learn how to learn," which helps it adapt to new tasks with minimal data and facilitates knowledge transfer.   
+
+
 
 ---
 
